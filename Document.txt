@@ -1,0 +1,28 @@
+
+......Fonts.... 
+
+font-family: 'PT Sans', sans-serif;
+
+
+
+.....color...
+
+ black:#010101
+ ash: #898989
+ yellow : #fcdb00
+
+
+....Display Mapping...
+
+font-size--------
+
+header====
+ 		xxl-xl-lg    md       sm-col
+ font-size 	 22          22          
+
+
+slider====
+  xxl-xl-lg    md       sm-col
+
+
+
